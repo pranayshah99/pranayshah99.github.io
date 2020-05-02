@@ -3,4 +3,4 @@
  Former Software Engineering Intern at Apple  
 🇮🇳 From Mumbai, India  
 
-[email](https://www.google.com)    [github](https://www.google.com)    [twitter](https://www.google.com)    [linkedin](https://www.google.com)    [resume](https://www.google.com)  
+[email](https://www.google.com) &nbsp;[github](https://www.google.com) &nbsp;[twitter](https://www.google.com) &nbsp;[linkedin](https://www.google.com) &nbsp;[resume](https://www.google.com)  
