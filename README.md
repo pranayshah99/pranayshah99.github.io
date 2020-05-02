@@ -1,14 +1,12 @@
+# Pranay Shah
 
-🎓 Computer Science at the University of Michigan
+## About
+🎓 Studying Computer Science at the University of Michigan, Ann Arbor  
+🚘 Incoming Software Engineering Intern at Tesla  
+ Former Software Engineering Intern at Apple  
+🇮🇳 From Mumbai, India  
 
-
-# 👨‍💻
-
-Incoming Software Engineering Intern at Tesla
-
-Former Software Engineering Intern at Apple
-
-You can find me here:
+## Links
 
 [pranay@pranayshah.xyz](https://www.google.com)
 
